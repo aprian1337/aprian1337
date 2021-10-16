@@ -18,5 +18,4 @@ You can reach me here:<br><br>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark&theme=tokyonight&hide_border=true" align = "center"/>
 </p>
 
-![Card Graph](https://activity-graph.herokuapp.com/graph?username=aprian1337&theme=react-dark&hide_border=true&area=true)
 
