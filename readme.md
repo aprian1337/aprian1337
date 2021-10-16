@@ -13,8 +13,10 @@ You can reach me here:<br><br>
 </a>
 
 ## :pushpin: My Stats
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aprian1337&layout=compact&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true" align = "center"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark&theme=tokyonight&hide_border=true" align = "center"/>
+</p>
 
-![Stat Card](https://github-readme-stats.vercel.app/api?username=aprian1337&layout=compact&theme=tokyonight&include_all_commits=true&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark&theme=tokyonight)](https://git.io/streak-stats)
 ![Card Graph](https://activity-graph.herokuapp.com/graph?username=aprian1337&theme=react-dark&hide_border=true&area=true)
 
