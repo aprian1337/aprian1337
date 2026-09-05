@@ -12,10 +12,4 @@ You can reach me here:<br><br>
     <img src="https://img.shields.io/badge/linkedin-%230E76A8?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## :pushpin: My Stats
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=aprian1337&layout=compact&theme=tokyonight&show_icons=true&hide_border=true" align = "center"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark&theme=tokyonight&hide_border=true" align = "center"/>
-</p>
-
 
