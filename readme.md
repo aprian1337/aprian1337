@@ -1,4 +1,4 @@
-![Card Name](https://cardivo.vercel.app/api?name=Dwiky%20Aprian%20Ashari&description=Hi,%20I'am%20a%20passionate%20software%20engineer,%20nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/55075488?v=4&linkedin=Dwiky%20Aprian%20Ashari&instagram=aprian1337&github=aprian1337&pattern=floatingCogs&colorPattern=%23eaeaea&backgroundColor=%23ecf0f1)
+<p>Hi, I'm Dwiky Aprian Ashari 👋</p>
 <p>I'm a self-taught passionate <b>software engineer</b> from Indonesia. :indonesia: :indonesia: :indonesia: :indonesia:</p>
 You can reach me here:<br><br>
 <a href="mailto:dwikyapriyan@gmail.com" style="text-decoration: none;">
